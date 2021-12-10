@@ -15,7 +15,7 @@
                 class="form-control"
                 id="exampleInputEmail1"
                 aria-describedby="emailHelp"
-                placeholder="Enter email"
+                placeholder="Enter password"
               />
             </div>
             <div class="form-group">
@@ -25,7 +25,7 @@
                 type="password"
                 class="form-control"
                 id="exampleInputPassword1"
-                placeholder="Password"
+                placeholder="Repeat password"
               />
             </div>
             <br />
